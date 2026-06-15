@@ -1,16 +1,24 @@
 {
   "sites": [
     {
-      "key": "test",
-      "name": "测试源",
+      "key": "hhzy",
+      "name": "豪华资源",
       "type": 3,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
+      "ext": {}
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "type": 3,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {}
     }
   ]
 }
