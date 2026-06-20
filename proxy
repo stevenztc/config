@@ -6,6 +6,5 @@
 #DOMAIN,exact.match.com
 #DOMAIN-KEYWORD,somekeyword
 #IP-CIDR,1.2.3.0/24,no-resolve
-
 #域名
 DOMAIN-SUFFIX,xn--9kqz23b19z.com
