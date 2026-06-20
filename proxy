@@ -1,0 +1,11 @@
+#自用走代理的域名
+# 自定义代理域名规则
+# 支持井号开头的注释和空行，方便分类
+#DOMAIN-SUFFIX,example.com
+#DOMAIN-SUFFIX,some-blocked-site.com
+#DOMAIN,exact.match.com
+#DOMAIN-KEYWORD,somekeyword
+#IP-CIDR,1.2.3.0/24,no-resolve
+
+#域名
+DOMAIN-SUFFIX,xn--9kqz23b19z.com
