@@ -8,6 +8,7 @@
 #IP-CIDR,1.2.3.0/24,no-resolve
 #域名
 DOMAIN-SUFFIX,chmlfrp.net
+DOMAIN-SUFFIX,fapiao.bangnimang.net
 DOMAIN-KEYWORD,frp
 DOMAIN-KEYWORD,dahua
 DOMAIN-KEYWORD,bing
